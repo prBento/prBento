@@ -1,16 +1,26 @@
-## Hi there 👋
+## Paulo Ricardo Bento as Bento | Analytics Engineer
 
-<!--
-**prBento/prBento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏗️ Building data pipelines · Python · Apache Airflow · BigQuery · GCP  
+📍 Curitiba, BR · [@grupoboticario](https://github.com/grupoboticario)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack principal
+
+`Python` `Apache Airflow` `BigQuery` `Cloud Run` `GCP` `SQL` `Qlik Sense` `Power BI`
+
+---
+
+### Projetos em destaque
+
+- [**personal_finance_ai**](https://github.com/prBento/personal_finance_ai) — ERP financeiro pessoal com pipeline Dual-Agent LLM, PostgreSQL e deploy no Railway
+- [**hybrid-ai-maze**](https://github.com/prBento/hybrid-ai-maze) — Algoritmos de busca e IA aplicados
+
+---
+
+### Certificações
+
+- Astronomer Certification — Apache Airflow Fundamentals  
+- Google Cloud — Digital Transformation & Responsible AI
+
+📫 [LinkedIn](https://linkedin.com/in/prbento)
