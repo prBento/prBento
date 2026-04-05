@@ -23,4 +23,4 @@
 - Astronomer Certification — Apache Airflow Fundamentals  
 - Google Cloud — Digital Transformation & Responsible AI
 
-📫 [LinkedIn](https://linkedin.com/in/prbento)
+
