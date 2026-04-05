@@ -1,4 +1,4 @@
-## Paulo Ricardo Bento as Bento | Analytics Engineer
+## Paulo Ricardo Bento (Bento) | Analytics Engineer
 
 🏗️ Building data pipelines · Python · Apache Airflow · BigQuery · GCP  
 📍 Curitiba, BR · [@grupoboticario](https://github.com/grupoboticario)
